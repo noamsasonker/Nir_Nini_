@@ -1,0 +1,65 @@
+
+Index Project                        Url                                                                             TitleHe                                                          
+----- -------                        ---                                                                             -------                                                          
+    1 all                            assets/images/projects/villa-exterior.jpg                                       חזית ראשית ורחבת כניסה                        
+    2 all                            assets/images/projects/villa-stone-facade.jpg                                   חזית אבן טבעית ובריכה                          
+    3 all                            assets/images/projects/villa-living-wide.jpg                                    סלון מרכזי רחב ידיים                            
+    4 all                            assets/images/projects/villa-aerial-balcony.jpg                                 מרפסת עליונה ומשרביית עץ                    
+    5 all                            assets/images/projects/villa-patio-pergola.jpg                                  חצר אירוח ופרגולת פלדה                        
+    6 all                            assets/images/projects/villa-garden-path.jpg                                    שביל גינה ופיתוח נוף                            
+    7 all                            assets/images/projects/villa-living-sofa.jpg                                    פינת ישיבה אינטימית בסלון                  
+    8 all                            assets/images/projects/villa-kitchen.jpg                                        מטבח מודרני ואי שיש                              
+    9 all                            assets/images/projects/villa-hall-stairs.jpg                                    מבואת כניסה ומדרגות מרחפות                
+   10 project-luxury-estate          assets/images/projects/estate/estate-facade-main.jpg                            חזית כניסה מונומנטלית בחלל כפול       
+   11 project-luxury-estate          assets/images/projects/estate/estate-living-piano.jpg                           סלון אירוח יוקרתי עם פסנתר כנף          
+   12 project-luxury-estate          assets/images/projects/estate/estate-glass-curtain.jpg                          מבט פנורמי מתוך הסלון לבריכה             
+   13 project-luxury-estate          assets/images/projects/estate/estate-pool-mosaic.jpg                            בריכת שחייה פרטית ורחבת שיזוף           
+   14 project-luxury-estate          assets/images/projects/estate/estate-kitchen-dining.jpg                         אינטגרציה בין מטבח פתוח לפינת אוכל  
+   15 project-luxury-estate          assets/images/projects/estate/estate-floating-stairs.jpg                        מדרגות מרחפות מעל גינה פנימית           
+   16 project-luxury-estate          assets/images/projects/estate/estate-pool-elevation.jpg                         מבט מתוך הבריכה לחזית האבן                 
+   17 project-luxury-estate          assets/images/projects/estate/estate-bbq-pavilion.jpg                           ביתן מטבח חוץ ואירוח                            
+   18 project-luxury-estate          assets/images/projects/estate/estate-deck-lounge.jpg                            פינת ישיבה חיצונית ודק עץ                   
+   19 project-luxury-estate          assets/images/projects/estate/estate-aerial-massing.jpg                         מבט איזומטרי ממעוף ציפור                    
+   20 project-luxury-estate          assets/images/projects/estate/estate-exterior-corner.jpg                        מבט פינתי על קיר המסך המזוגג              
+   21 project-luxury-estate          assets/images/projects/estate/estate-poolside-patio.jpg                         רחבת הבריכה ומחיצת משרבייה                
+   22 project-luxury-estate          assets/images/projects/estate/estate-facade-detail.jpg                          פרט חזית הכניסה וקורות הצללה             
+   23 project-luxury-estate          assets/images/projects/estate/estate-gate-driveway.jpg                          שער כניסה, רחבת חניה ותאורה                
+   24 project-luxury-estate          assets/images/projects/estate/estate-garden-pathway.jpg                         שביל גינה היקפי ודק עץ                         
+   25 project-luxury-estate          assets/images/projects/estate/estate-kitchen-island.jpg                         אי מטבח יוקרתי וברז פליז זהב              
+   26 project-luxury-estate          assets/images/projects/estate/estate-kitchen-prep.jpg                           משטח עבודה וכיריים אינדוקציה            
+   27 project-luxury-estate          assets/images/projects/estate/estate-kitchen-bar.jpg                            דלפק ישיבה וגוף תאורה מעוצב               
+   28 project-luxury-estate          assets/images/projects/estate/estate-kitchen-corridor.jpg                       מסדרון מטבח וארונות גבוהים                
+   29 project-luxury-estate          assets/images/projects/estate/estate-dining-stairs.jpg                          שולחן אוכל שיש לצד המדרגות                 
+   30 project-luxury-estate          assets/images/projects/estate/estate-living-foyer.jpg                           מבט פנורמי ממבואת המדרגות                  
+   31 project-luxury-estate          assets/images/projects/estate/estate-stairs-perspective.jpg                     מבט אנכי לאורך רום המדרגות                 
+   32 project-luxury-estate          assets/images/projects/estate/estate-foyer-display.jpg                          מבואת כניסה וויטרינת תצוגה מוארת     
+   33 project-luxury-estate          assets/images/projects/estate/estate-salon-art.jpg                              קיר אמנות וסלון ייצוגי                        
+   34 project-b10                    assets/images/projects/b10-facade.jpg                                           חזית ראשית ופיתוח שטח – B10                  
+   35 project-commercial-office      assets/images/projects/commercial/commercial-breakroom-table.jpg                חלל אירוח והתרעננות משרדי                  
+   36 project-commercial-office      assets/images/projects/commercial/commercial-slat-wall-coffee.jpg               עמדת קפה executive בחיפוי סרגלי עץ           
+   37 project-commercial-office      assets/images/projects/commercial/commercial-kitchenette-gray.jpg               מטבחון שירות משרדי באפור בהיר           
+   38 project-commercial-office      assets/images/projects/commercial/commercial-executive-coffee.jpg               עמדת אספרסו ומשקאות ייצוגית              
+   39 project-commercial-office      assets/images/projects/commercial/commercial-coffee-counter.jpg                 משטח עבודה ותחנת מים במטבחון             
+   40 project-commercial-office      assets/images/projects/commercial/commercial-pantry-angle.jpg                   מבט פינתי על נגרות המטבחון                 
+   41 project-kitchen-graphite       assets/images/projects/kitchen-graphite/kitchen-graphite-curved-island.jpg      אי מרכזי מעוגל בטקסטורת אבן גרפיט    
+   42 project-kitchen-graphite       assets/images/projects/kitchen-graphite/kitchen-graphite-sink-brass.jpg         משטח כיור משיש וברז פליז מוברש          
+   43 project-kitchen-graphite       assets/images/projects/kitchen-graphite/kitchen-graphite-front.jpg              חזית האי המעוגל וחלון עליון               
+   44 project-kitchen-graphite       assets/images/projects/kitchen-graphite/kitchen-graphite-perspective.jpg        מבט פרספקטיבי מהכיור לחלל                  
+   45 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-wine-cellar-island.jpg      אי יוקרתי עם מקרר יין מזוגג                
+   46 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-panoramic-taupe.jpg         מטבח פנורמי מואר בחיפוי עץ עליון      
+   47 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-vitrine-display-wall.jpg    קיר ארונות גבוהים וויטרינת זכוכית   
+   48 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-walnut-island.jpg           מטבח מודרני בשילוב עץ אגוז ונירוסטה
+   49 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-island-refrigerator.jpg     מבט סימטרי אל האי והמקרר האינטגרלי  
+   50 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-timber-concrete-3d.jpg      מטבח כפרי-מודרני עם קיר בטון              
+   51 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-timber-dining-bar.jpg       דלפק ישיבה וגופי תאורה תלויים           
+   52 project-kitchen-contemporary   assets/images/projects/kitchen-contemporary/kitchen-timber-elevation.jpg        חזית ישרה של משטח העבודה                     
+   53 project-residential-apartments assets/images/projects/residential-apartments/apartment-kitchen-white-suite.jpg מטבח דירה מודרני בגימור לבן נקי        
+   54 project-residential-apartments assets/images/projects/residential-apartments/utility-pantry-wide.jpg           חלל שירות ומזווה מואר עם משטח עבודה 
+   55 project-residential-apartments assets/images/projects/residential-apartments/apartment-kitchen-compact-a.jpg   מטבח קומפקטי מעוצב ואיכותי                
+   56 project-residential-apartments assets/images/projects/residential-apartments/utility-laundry-storage-a.jpg     ארונות אחסון וכביסה מקיר לקיר           
+   57 project-residential-apartments assets/images/projects/residential-apartments/utility-laundry-storage-b.jpg     חזית ארונות שירות וארגון מושלם         
+   58 project-residential-apartments assets/images/projects/residential-apartments/apartment-kitchen-compact-b.jpg   מבט עילי על חלוקת המשטחים במטבח        
+   59 project-residential-apartments assets/images/projects/residential-apartments/apartment-kitchen-hall.jpg        מבואת כניסה למטבח הדירה                      
+
+
+

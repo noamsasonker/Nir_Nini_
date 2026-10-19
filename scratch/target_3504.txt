@@ -1,0 +1,174 @@
+    <section id="contact" class="section section-contact-black">
+      <div class="container">
+        
+        <div class="contact-luxe-pavilion reveal-on-scroll">
+          <div class="contact-grid">
+            
+            <!-- Contact Info Panel -->
+            <div class="contact-info-panel reveal-on-scroll stagger-1">
+              <div class="contact-header-block">
+                <span class="section-eyebrow">GET IN TOUCH</span>
+                <h2 class="contact-title" data-i18n="contactTitle">בואו נשוחח על הפרויקט שלכם</h2>
+                <p class="contact-subtitle" data-i18n="contactSubtitle">
+                  מתכננים לבנות וילה או בית פרטי? מעוניינים לבחון את זכויות הבנייה במגרש שלכם? צרו קשר ישיר לשיחת ייעוץ מקצועית עם ניר ניני, הנדסאי אדריכלות.
+                </p>
+              </div>
+
+              <div class="contact-channels">
+                
+                <!-- Direct Phone Card -->
+                <div class="contact-channel-item dark-channel-card">
+                  <div class="channel-icon dark-channel-icon">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--accent-gold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                    </svg>
+                  </div>
+                  <div class="channel-details">
+                    <span class="channel-label" data-i18n="phoneDirectLabel">טלפון ישיר לתכנון ובירורים</span>
+                    <a href="tel:0507299992" class="channel-value channel-phone-link phone-number" dir="ltr">050-729-9992</a>
+                  </div>
+                </div>
+
+                <!-- WhatsApp Direct Official Card -->
+                <div class="direct-whatsapp-card dark-whatsapp-card">
+                  <div class="whatsapp-content">
+                    <span class="whatsapp-title" data-i18n="waChatTitle">צ'אט ישיר בוואטסאפ</span>
+                    <span class="whatsapp-sub" data-i18n="waChatSub">מענה מהיר לשאלות ראשוניות ותיאום פגישה</span>
+                  </div>
+                  <a href="https://wa.me/972507299992?text=%D7%A9%D7%9C%D7%95%D7%9D%20%D7%A0%D7%99%D7%A8%2C%20%D7%90%D7%A0%D7%99%20%D7%A4%D7%95%D7%A0%D7%94%20%D7%93%D7%A8%D7%9A%20%D7%94%D7%90%D7%AA%D7%A8%20%D7%9C%D7%92%D7%91%D7%99%20%D7%AA%D7%9B%D7%A0%D7%95%D7%9F%20%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98" 
+                     target="_blank" 
+                     rel="noopener noreferrer" 
+                     class="btn-whatsapp">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <rect width="24" height="24" rx="5.5" fill="#25D366" />
+                      <path d="M17.5 14.3c-.3-.1-1.7-.8-1.9-.9-.3-.1-.5-.1-.7.1s-.8.9-.9 1.1c-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.5-.5.2-.2.2-.3.3-.5.1-.2 0-.4 0-.5s-.7-1.7-.9-2.3c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4s-1.2 1.2-1.2 2.9 1.2 3.4 1.4 3.6c.2.2 2.4 3.7 5.9 5.2.8.4 1.5.6 2 .7.8.3 1.6.2 2.2.1.7-.1 2.1-.9 2.4-1.7.3-.8.3-1.5.2-1.7-.1-.2-.3-.3-.6-.4z" fill="#ffffff"/>
+                      <path d="M12 4a8 8 0 0 0-6.9 12l-.9 3.3 3.4-.9A8 8 0 1 0 12 4zm0 14.6c-1.3 0-2.6-.4-3.7-1l-.3-.2-2 .5.5-2-.2-.3A6.6 6.6 0 1 1 12 18.6z" fill="#ffffff"/>
+                    </svg>
+                    <span data-i18n="btnSendMsg">שליחת הודעה</span>
+                  </a>
+                </div>
+
+                <!-- Official Social Channels Row -->
+                <div class="contact-social-row">
+                  <!-- Instagram Card -->
+                  <div class="contact-channel-item dark-channel-card">
+                    <div class="channel-icon dark-channel-icon" style="padding: 2px;">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="24" height="24" rx="6" fill="url(#ig-official-gradient)" />
+                        <rect x="5.5" y="5.5" width="13" height="13" rx="3.5" stroke="#ffffff" stroke-width="1.6" fill="none" />
+                        <circle cx="12" cy="12" r="3.2" stroke="#ffffff" stroke-width="1.6" fill="none" />
+                        <circle cx="15.8" cy="8.2" r="0.9" fill="#ffffff" />
+                      </svg>
+                    </div>
+                    <div class="channel-details">
+                      <span class="channel-label" data-i18n="socialIg">אינסטגרם</span>
+                      <a href="https://www.instagram.com/nir_nini_architect?xtok=cHA1d3Y3anc0cGZt" target="_blank" rel="noopener noreferrer" class="channel-value" style="font-size: 0.95rem;">@nir_nini_architect</a>
+                    </div>
+                  </div>
+
+                  <!-- TikTok Card -->
+                  <div class="contact-channel-item dark-channel-card">
+                    <div class="channel-icon dark-channel-icon" style="padding: 2px;">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="24" height="24" rx="6" fill="#010101" />
+                        <path d="M16.4 8.2c-.8-.5-1.4-1.3-1.6-2.2h-2.1v9.6c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2c0-1.1.8-2 1.9-2.2v-2.2c-2.3.2-4.1 2.1-4.1 4.4 0 2.4 2 4.4 4.4s4.4-2 4.4-4.4V9.8c1 .7 2.1 1.1 3.3 1.1V8.7c-.7 0-1.3-.2-1.8-.5z" fill="#25F4EE" />
+                        <path d="M17.0 8.7c-.8-.5-1.4-1.3-1.6-2.2h-2.1v9.6c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2c0-1.1.8-2 1.9-2.2V11.9c-2.3.2-4.1 2.1-4.1 4.4 0 2.4 2 4.4 4.4 4.4s4.4-2 4.4-4.4V10.3c1 .7 2.1 1.1 3.3 1.1V9.2c-.7 0-1.3-.2-1.8-.5z" fill="#FE2C55" style="mix-blend-mode: screen;" />
+                        <path d="M16.7 8.4c-.8-.5-1.4-1.3-1.6-2.2h-2.1v9.6c0 1.2-1 2.2-2.2 2.2s-2.2-1-2.2-2.2c0-1.1.8-2 1.9-2.2v-2.2c-2.3.2-4.1 2.1-4.1 4.4 0 2.4 2 4.4 4.4 4.4s4.4-2 4.4-4.4V10c1 .7 2.1 1.1 3.3 1.1V8.9c-.7 0-1.3-.2-1.8-.5z" fill="#FFFFFF" />
+                      </svg>
+                    </div>
+                    <div class="channel-details">
+                      <span class="channel-label" data-i18n="socialTt">טיקטוק</span>
+                      <a href="https://www.tiktok.com/@nir_nini?_r=1&_t=ZS-9Aa8OF02VYv" target="_blank" rel="noopener noreferrer" class="channel-value" style="font-size: 0.95rem;">@nir_nini</a>
+                    </div>
+                  </div>
+
+                  <!-- Facebook Card -->
+                  <div class="contact-channel-item dark-channel-card">
+                    <div class="channel-icon dark-channel-icon" style="padding: 2px;">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="24" height="24" rx="6" fill="#1877F2" />
+                        <path d="M15.12 12.75l.44-2.88h-2.76V8c0-.79.39-1.56 1.63-1.56h1.26V3.99c-.23-.03-1.02-.1-1.95-.1-1.99 0-3.29 1.21-3.29 3.39v2.59H7.92v2.88h2.52V20h3.04v-7.25h1.64z" fill="#ffffff"/>
+                      </svg>
+                    </div>
+                    <div class="channel-details">
+                      <span class="channel-label" data-i18n="socialFb">פייסבוק</span>
+                      <a href="#" target="_blank" rel="noopener noreferrer" class="channel-value facebook-official-link" style="font-size: 0.95rem;" data-i18n="socialFbName">ניר ניני אדריכלות</a>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Midrag Platform Official Mention Card -->
+                <div class="contact-channel-item dark-channel-card contact-midrag-card">
+                  <div class="channel-icon dark-channel-icon" style="background: rgba(198, 161, 91, 0.12); border-color: rgba(198, 161, 91, 0.35);">
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--accent-gold)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                      <polyline points="9 12 11 14 15 10"></polyline>
+                    </svg>
+                  </div>
+                  <div class="channel-details">
+                    <span class="channel-label" data-i18n="midragLabel">מוניטין ושקיפות מקצועית</span>
+                    <a href="#" target="_blank" rel="noopener noreferrer" class="channel-value midrag-official-link" style="font-size: 0.95rem;" data-i18n="midragLink">
+                      ניתן למצוא אותנו גם בפלטפורמת מדרג
+                    </a>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+
+            <!-- Contact Form Panel -->
+            <div class="contact-form-panel black-form-container reveal-on-scroll stagger-2">
+              <h3 class="form-title" data-i18n="formTitle">השאירו פרטים לשיחת ייעוץ</h3>
+              <p class="form-subtitle" data-i18n="formSubtitle">מלאו את הפרטים ונחזור אליכם לבחינת הפרויקט, התב"ע וזכויות הבנייה</p>
+
+              <form id="inquiry-form" class="inquiry-form">
+                <div class="form-row">
+                  <div class="form-group">
+                    <label class="form-label" for="form-name-field"><span data-i18n="formName">שם מלא</span> <span class="req-star">*</span></label>
+                    <input type="text" id="form-name-field" name="name" class="form-input dark-input" required placeholder="הזינו שם מלא" data-i18n-placeholder="formNamePlaceholder" />
+                  </div>
+                  <div class="form-group">
+                    <label class="form-label" for="form-phone-field"><span data-i18n="formPhone">מספר טלפון</span> <span class="req-star">*</span></label>
+                    <input type="tel" id="form-phone-field" name="phone" class="form-input dark-input" required placeholder="05X-XXXXXXX" data-i18n-placeholder="formPhonePlaceholder" />
+                  </div>
+                </div>
+
+                <div class="form-group">
+                  <label class="form-label" for="form-project-type" data-i18n="formType">סוג הפרויקט המבוקש</label>
+                  <select id="form-project-type" name="projectType" class="form-select dark-input">
+                    <option value="תכנון וילה / בית פרטי צמוד קרקע והוצאת היתר בניה ורישוי מול הוועדה" data-i18n="optVilla">תכנון וילה / בית פרטי צמוד קרקע והוצאת היתר בניה ורישוי מול הוועדה</option>
+                    <option value="שיפוץ מקיף והרחבת מבנה קיים" data-i18n="optExtension">שיפוץ מקיף והרחבת מבנה קיים</option>
+                    <option value="עיצוב פנים במבנה קיים" data-i18n="optInteriors">עיצוב פנים במבנה קיים</option>
+                  </select>
+                </div>
+
+                <div class="form-group">
+                  <label class="form-label" for="form-notes-field" data-i18n="formMsgLabel">פרטים נוספים אודות הפרויקט (אופציונלי)</label>
+                  <textarea id="form-notes-field" name="notes" class="form-input dark-input form-textarea" placeholder="ספרו בקצרה על הפרויקט או המגרש שלכם..." data-i18n-placeholder="formMsg"></textarea>
+                </div>
+
+                <div class="form-group checkbox-group" style="margin-top: 0.25rem;">
+                  <label class="form-checkbox-label" for="legal-consent-check">
+                    <input type="checkbox" id="legal-consent-check" name="legalConsent" required />
+                    <span style="font-size: 0.82rem; color: #94a3b8; line-height: 1.5;" data-i18n="legalConsentText">
+                      קראתי ואני מסכים/ה ל<a href="terms.html" target="_blank" rel="noopener noreferrer" style="color: var(--accent-gold); text-decoration: underline;">תנאי השימוש ומדיניות ההחזרים</a> ול<a href="privacy.html" target="_blank" rel="noopener noreferrer" style="color: var(--accent-gold); text-decoration: underline;">מדיניות הפרטיות והעוגיות</a> של הסטודיו.
+                    </span>
+                  </label>
+                </div>
+
+                <button type="submit" class="btn-submit-form dark-submit-btn">
+                  <span data-i18n="formSubmit">שליחת פנייה לניר ניני</span>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                  </svg>
+                </button>
+              </form>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>

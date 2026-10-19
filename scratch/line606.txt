@@ -1,0 +1,10 @@
+<USER_REQUEST>
+בתמונות אשמח שתוריד את הכיתוב הזה [ 01 // חוץ ופיתוח נוף ] וגם בתמונה השנייה ובמובייל שלוחצים על השלוש פסים בצד שמאל האתר נתקע תבדוק ותסדר את זה 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-18T00:29:15+03:00.
+
+The user has uploaded 1 image(s):
+- C:/Users/PC/.gemini/antigravity/brain/9778e56b-ac5e-4a8e-ba10-9fce1a4e5a88/.user_uploaded/media_1792272474783_b7cf715f.png
+You can embed this image in an artifact if you need the USER to review it.
+</ADDITIONAL_METADATA>

@@ -1,0 +1,8 @@
+# robots.txt for Nir Nini Architecture Studio
+User-agent: *
+Disallow: /scratch/
+Disallow: /catalog.html
+Disallow: /assets/images/temp_extracted/
+Allow: /
+
+Sitemap: https://nir-nini.co.il/sitemap.xml
